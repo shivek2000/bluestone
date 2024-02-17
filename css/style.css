@@ -1323,7 +1323,7 @@ a.mid-bar::after {
 .gallery-grid1 .p-mask .p-desc{
     color: #a3a3a3;
     position: relative;
-    display: block;
+    display:inline-block;
     margin-bottom: 10px;
     padding-bottom: 10px;
     font-size: 1em;
