@@ -407,12 +407,12 @@ input[type="submit"],.w3l_header_left ul li a,.related-post-right h4 a,.comments
     margin: 0 3em 0 0em;
 }
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-    color: #ffffff;
+    color: #000000;
 }
 .navbar-brand {
     padding: 0em;
     line-height: 48px;
-    font-size: 1.2em;
+    font-size: 30px;
     height: 55px;
 }
 /*-- agileits --*/
@@ -423,7 +423,7 @@ input[type="submit"],.w3l_header_left ul li a,.related-post-right h4 a,.comments
 	-o-transform: rotate(-180deg);
 	-ms-transform: rotate(-180deg);*/
     display: inline-block;
-    color: #F58703;
+    color: #2592d1;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background: none;
@@ -661,7 +661,7 @@ input[type="submit"],.w3l_header_left ul li a,.related-post-right h4 a,.comments
     min-height: 700px;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: #000000;
 }
 /*-- //header --*/
 .readmore-w3 a {
@@ -801,7 +801,7 @@ ul.resp-tabs-list {
 /*-- //about --*/
 /*--sevices-section--*/
 .sevices-w3layouts h3 {
-    color: #fff!important;
+    color:#337ab7!important;
 }
 .sevices-w3layouts{
 	background:url("../images/s2.jpg") no-repeat 0px 0px;
@@ -1381,7 +1381,7 @@ div#contact h3 {
     color: #efe7e7;
 }
 .contact-agile p.heading-btm-w3ls,.sevices-w3layouts p.heading-btm-w3ls{
-    color: #e7e3e3;
+    color: #f58703;
 }
 .contact-middle input[type="text"],.contact-middle input[type="email"],textarea {
     width: 100%;
@@ -2129,7 +2129,7 @@ textarea:focus{
 		margin: 0;
 		text-align: center;
 		float: none;
-		background: rgba(9, 9, 9, 0.25);
+		background:rgb(111 100 100 / 25%);
 		padding-bottom: 1.5em;
 	}
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -2152,7 +2152,7 @@ textarea:focus{
 		width: 57%;
 	}
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-		background: rgba(11, 11, 11, 0.82);
+		background:rgb(111 100 100 / 25%);
 	}
 	.navbar-nav > li > a {
 		padding: 23px 6px 0;
